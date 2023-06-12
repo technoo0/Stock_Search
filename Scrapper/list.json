@@ -1,0 +1,218 @@
+[
+    {
+        "CompanyName": "Apple Inc.",
+        "Symbol": "AAPL"
+    },
+    {
+        "CompanyName": "Microsoft Corporation",
+        "Symbol": "MSFT"
+    },
+    {
+        "CompanyName": "Amazon.com, Inc.",
+        "Symbol": "AMZN"
+    },
+    {
+        "CompanyName": "Alphabet Inc. (Google)",
+        "Symbol": "GOOGL"
+    },
+    {
+        "CompanyName": "Facebook, Inc.",
+        "Symbol": "FB"
+    },
+    {
+        "CompanyName": "Tesla, Inc.",
+        "Symbol": "TSLA"
+    },
+    {
+        "CompanyName": "NVIDIA Corporation",
+        "Symbol": "NVDA"
+    },
+    {
+        "CompanyName": "Johnson & Johnson",
+        "Symbol": "JNJ"
+    },
+    {
+        "CompanyName": "JPMorgan Chase & Co.",
+        "Symbol": "JPM"
+    },
+    {
+        "CompanyName": "Visa Inc.",
+        "Symbol": "V"
+    },
+    {
+        "CompanyName": "Walmart Inc.",
+        "Symbol": "WMT"
+    },
+    {
+        "CompanyName": "Mastercard Incorporated",
+        "Symbol": "MA"
+    },
+    {
+        "CompanyName": "Procter & Gamble Company",
+        "Symbol": "PG"
+    },
+    {
+        "CompanyName": "UnitedHealth Group Incorporated",
+        "Symbol": "UNH"
+    },
+    {
+        "CompanyName": "Walt Disney Company (The)",
+        "Symbol": "DIS"
+    },
+    {
+        "CompanyName": "Netflix, Inc.",
+        "Symbol": "NFLX"
+    },
+    {
+        "CompanyName": "Adobe Inc.",
+        "Symbol": "ADBE"
+    },
+    {
+        "CompanyName": "Cisco Systems, Inc.",
+        "Symbol": "CSCO"
+    },
+    {
+        "CompanyName": "Intel Corporation",
+        "Symbol": "INTC"
+    },
+    {
+        "CompanyName": "AT&T Inc.",
+        "Symbol": "T"
+    },
+    {
+        "CompanyName": "Bank of America Corporation",
+        "Symbol": "BAC"
+    },
+    {
+        "CompanyName": "Pfizer Inc.",
+        "Symbol": "PFE"
+    },
+    {
+        "CompanyName": "Coca-Cola Company (The)",
+        "Symbol": "KO"
+    },
+    {
+        "CompanyName": "PepsiCo, Inc.",
+        "Symbol": "PEP"
+    },
+    {
+        "CompanyName": "Verizon Communications Inc.",
+        "Symbol": "VZ"
+    },
+    {
+        "CompanyName": "Visa Inc.",
+        "Symbol": "V"
+    },
+    {
+        "CompanyName": "Johnson & Johnson",
+        "Symbol": "JNJ"
+    },
+    {
+        "CompanyName": "JPMorgan Chase & Co.",
+        "Symbol": "JPM"
+    },
+    {
+        "CompanyName": "Walmart Inc.",
+        "Symbol": "WMT"
+    },
+    {
+        "CompanyName": "Mastercard Incorporated",
+        "Symbol": "MA"
+    },
+    {
+        "CompanyName": "Procter & Gamble Company",
+        "Symbol": "PG"
+    },
+    {
+        "CompanyName": "UnitedHealth Group Incorporated",
+        "Symbol": "UNH"
+    },
+    {
+        "CompanyName": "Walt Disney Company (The)",
+        "Symbol": "DIS"
+    },
+    {
+        "CompanyName": "Netflix, Inc.",
+        "Symbol": "NFLX"
+    },
+    {
+        "CompanyName": "Adobe Inc.",
+        "Symbol": "ADBE"
+    },
+    {
+        "CompanyName": "Cisco Systems, Inc.",
+        "Symbol": "CSCO"
+    },
+    {
+        "CompanyName": "Intel Corporation",
+        "Symbol": "INTC"
+    },
+    {
+        "CompanyName": "AT&T Inc.",
+        "Symbol": "T"
+    },
+    {
+        "CompanyName": "Bank of America Corporation",
+        "Symbol": "BAC"
+    },
+    {
+        "CompanyName": "Pfizer Inc.",
+        "Symbol": "PFE"
+    },
+    {
+        "CompanyName": "Coca-Cola Company (The)",
+        "Symbol": "KO"
+    },
+    {
+        "CompanyName": "PepsiCo, Inc.",
+        "Symbol": "PEP"
+    },
+    {
+        "CompanyName": "Verizon Communications Inc.",
+        "Symbol": "VZ"
+    },
+    {
+        "CompanyName": "Salesforce.com, Inc.",
+        "Symbol": "CRM"
+    },
+    {
+        "CompanyName": "IBM",
+        "Symbol": "IBM"
+    },
+    {
+        "CompanyName": "McDonald's Corporation",
+        "Symbol": "MCD"
+    },
+    {
+        "CompanyName": "Boeing Company (The)",
+        "Symbol": "BA"
+    },
+    {
+        "CompanyName": "Starbucks Corporation",
+        "Symbol": "SBUX"
+    },
+    {
+        "CompanyName": "3M Company",
+        "Symbol": "MMM"
+    },
+    {
+        "CompanyName": "General Electric Company",
+        "Symbol": "GE"
+    },
+    {
+        "CompanyName": "Exxon Mobil Corporation",
+        "Symbol": "XOM"
+    },
+    {
+        "CompanyName": "Goldman Sachs Group, Inc. (The)",
+        "Symbol": "GS"
+    },
+    {
+        "CompanyName": "Caterpillar Inc.",
+        "Symbol": "CAT"
+    },
+    {
+        "CompanyName": "Home Depot, Inc. (The)",
+        "Symbol": "HD"
+    }
+]
